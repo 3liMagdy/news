@@ -1,0 +1,13 @@
+{
+  "@@locale": "fr",
+  "app_name": "Application d'actualités",
+  "common_ok": "OK",
+  "common_cancel": "Annuler",
+  "auth_login": "Connexion",
+  "auth_register": "S'inscrire",
+  "auth_email": "E-mail",
+  "auth_password": "Mot de passe",
+
+  "onboarding_choose_language": "Choisir la langue",
+  "common_continue": "Continuer"
+}

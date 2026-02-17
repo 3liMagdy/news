@@ -1,0 +1,12 @@
+{
+  "@@locale": "tr",
+  "app_name": "Haberler Uygulaması",
+  "common_ok": "Tamam",
+  "common_cancel": "İptal",
+  "auth_login": "Giriş Yap",
+  "auth_register": "Kayıt Ol",
+  "auth_email": "E-posta",
+  "auth_password": "Şifre",
+  "onboarding_choose_language": "Dil Seçin",
+  "common_continue": "Devam"
+}

@@ -1,0 +1,12 @@
+{
+  "@@locale": "it",
+  "app_name": "App Notizie",
+  "common_ok": "OK",
+  "common_cancel": "Annulla",
+  "auth_login": "Accedi",
+  "auth_register": "Registrati",
+  "auth_email": "Email",
+  "auth_password": "Password",
+  "onboarding_choose_language": "Scegli la lingua",
+  "common_continue": "Continua"
+}

@@ -1,0 +1,12 @@
+{
+  "@@locale": "ja",
+  "app_name": "ニュースアプリ",
+  "common_ok": "OK",
+  "common_cancel": "キャンセル",
+  "auth_login": "ログイン",
+  "auth_register": "登録",
+  "auth_email": "Eメール",
+  "auth_password": "パスワード",
+  "onboarding_choose_language": "言語を選択",
+  "common_continue": "次へ"
+}

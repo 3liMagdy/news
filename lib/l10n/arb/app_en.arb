@@ -1,0 +1,27 @@
+{
+  "@@locale": "en",
+
+  "app_name": "NewsWatch",
+
+  "common_ok": "OK",
+  "common_cancel": "Cancel",
+
+  "auth_login": "Login",
+  "auth_register": "Register",
+  "auth_email": "Email",
+  "auth_password": "Password",
+  "auth_username": "Username",
+  "auth_phone": "Phone",
+  "auth_forgot_password": "Forgot password?",
+  "auth_dont_have_account": "Don't have an account? ",
+  "auth_have_account": "Already have an account? ",
+  "auth_sign_in": "Sign In",
+  "auth_sign_up": "Sign Up",
+  "auth_register_action": "Register",
+  "auth_role_prompt": "I am a",
+  "auth_role_reporter": "Media Reporter",
+  "auth_role_visitor": "Visitor",
+
+  "onboarding_choose_language": "Choose Language",
+  "common_continue": "Continue"
+}

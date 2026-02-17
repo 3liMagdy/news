@@ -1,0 +1,12 @@
+{
+  "@@locale": "ru",
+  "app_name": "Новости",
+  "common_ok": "ОК",
+  "common_cancel": "Отмена",
+  "auth_login": "Войти",
+  "auth_register": "Регистрация",
+  "auth_email": "Электронная почта",
+  "auth_password": "Пароль",
+  "onboarding_choose_language": "Выберите язык",
+  "common_continue": "Продолжить"
+}

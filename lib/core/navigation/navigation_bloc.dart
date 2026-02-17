@@ -1,0 +1,17 @@
+import 'package:bloc/bloc.dart';
+
+import 'navigation_event.dart';
+import 'navigation_state.dart';
+
+class NavigationBloc
+    extends Bloc<NavigationEvent, NavigationState> {
+  NavigationBloc() : super(SplashPageState()) {
+    on<GoToLogin>((event, emit) {
+      emit(LoginPageState());
+    });
+
+    on<GoToHome>((event, emit) {
+      emit(HomePageState());
+    });
+  }
+}

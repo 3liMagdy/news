@@ -1,0 +1,12 @@
+{
+  "@@locale": "de",
+  "app_name": "Nachrichten App",
+  "common_ok": "OK",
+  "common_cancel": "Abbrechen",
+  "auth_login": "Anmelden",
+  "auth_register": "Registrieren",
+  "auth_email": "E-Mail",
+  "auth_password": "Passwort",
+  "onboarding_choose_language": "Sprache wählen",
+  "common_continue": "Weiter"
+}

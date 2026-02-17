@@ -1,0 +1,27 @@
+{
+  "@@locale": "ar",
+
+  "app_name": "نيوز ووتش",
+
+  "common_ok": "موافق",
+  "common_cancel": "إلغاء",
+
+  "auth_login": "تسجيل الدخول",
+  "auth_register": "إنشاء حساب",
+  "auth_email": "البريد الإلكتروني",
+  "auth_password": "كلمة المرور",
+  "auth_username": "اسم المستخدم",
+  "auth_phone": "رقم الهاتف",
+  "auth_forgot_password": "هل نسيت كلمة المرور؟",
+  "auth_dont_have_account": "ليس لديك حساب؟ ",
+  "auth_have_account": "لديك حساب بالفعل؟ ",
+  "auth_sign_in": "تسجيل الدخول",
+  "auth_sign_up": "إنشاء حساب",
+  "auth_register_action": "سجل الآن",
+  "auth_role_prompt": "أنا",
+  "auth_role_reporter": "مراسل إعلامي",
+  "auth_role_visitor": "زائر",
+
+  "onboarding_choose_language": "اختر اللغة",
+  "common_continue": "متابعة"
+}

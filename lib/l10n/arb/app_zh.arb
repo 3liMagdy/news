@@ -1,0 +1,12 @@
+{
+  "@@locale": "zh",
+  "app_name": "新闻应用",
+  "common_ok": "确定",
+  "common_cancel": "取消",
+  "auth_login": "登录",
+  "auth_register": "注册",
+  "auth_email": "电子邮件",
+  "auth_password": "密码",
+  "onboarding_choose_language": "选择语言",
+  "common_continue": "继续"
+}
