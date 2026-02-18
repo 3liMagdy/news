@@ -1,4 +1,4 @@
-📚 Bookly
+#📚 Bookly
 
 Bookly is a Flutter application that allows users to search and explore free books using a public books API.
 The app follows clean architecture principles and professional project structure standards.
